@@ -1,8 +1,4 @@
-Don’t paste just the title — paste the whole README content. Copy everything below and paste it into the editor area.
 
-Filename (top box): README.md
-
-Paste this exact text into the editor:
 
 # TMP36 → 16x2 LCD + Serial (Tinkercad demo)
 
